@@ -2,6 +2,8 @@
 
 <h3 align="center">I am a dedicated, resourceful and growth-oriented individual who is interested in web applications, PHP, data analysis and bioinformatics</h3>
 
+---
+
 - 🌱 I’m currently learning **everything I can.**
 
 <p align="center">
@@ -11,6 +13,7 @@
 
 > "Whatever is worth doing at all is worth doing well" - Unknown
 
+---
 <!-- Add Stats Using [DenverCoder1/github-readme-streak-stats](https://git.io/streak-stats) -->
 ### :fire: Auto Stats :
 
