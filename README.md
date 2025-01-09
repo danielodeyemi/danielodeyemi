@@ -29,13 +29,12 @@
 ---
 
 ## Connect with me:
-![My Twitter](https://img.shields.io/badge/X(Twitter)-%40Firstofdaniels-blue?style=social&logo=x&link=https%3A%2F%2Fx.com%2Ffirstofdaniels)
-
-![My LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Abayomi%20Odeyemi-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanielodeyemi%2F)
 
 <a href="https://x.com/firstofdaniels">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/firstofdaniels?style=for-the-badge&logo=x&labelColor=%237E84F2&color=%237E84F2">
 </a>
+
+<br>
 
 <a href="https://www.linkedin.com/in/danielodeyemi/">
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%3A-Daniel%20Abayomi%20Odeyemi-%237E84F2?style=for-the-badge&labelColor=%23898DD9">
