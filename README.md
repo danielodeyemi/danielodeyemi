@@ -1,5 +1,3 @@
-<img alt="LinkedIn/Github Header" src="https://media.licdn.com/dms/image/v2/D4E16AQEA4KQc4PLOqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735084354434?e=1741824000&v=beta&t=TM4boT68CdyEm2wAdpa2q-mWi4npMGwLytSOh8huCwo">
-
 # Hi, my name is **Daniel Odeyemi**
 
 ### I am a bioinformatics scientist, molecular biologist, microbiologist and software developer focused on web application development.
