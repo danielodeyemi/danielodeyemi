@@ -2,8 +2,6 @@
 
 ### I am a bioinformatics scientist, molecular biologist, microbiologist and software developer focused on web application development.
 
-> Update as of January 2025: Currently looking for a full time job.
-
 ---
 
 - 🧑‍💻 I mostly use [Python](https://www.python.org) for data analysis and bioinformatics.
