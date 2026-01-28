@@ -1,6 +1,6 @@
 # Hi, my name is **Daniel Odeyemi**
 
-### I am a bioinformatics scientist, molecular biologist, microbiologist and software developer focused on web application development.
+### I am a bioinformatician, and software developer focused on web application development.
 
 ---
 
@@ -8,17 +8,15 @@
   - Does not mean I don't like [R](https://www.r-project.org/) too 😉
 - 🪴 I mostly use [PHP](https://www.php.net/) for web development.
    - 🔨 I love and spend a lot of time using [Laravel](https://laravel.com/).
-   - 🔨 I love [WordPress](https://wordpress.org) and have built a ton of projects with it.
+   - 🔨 I love [WordPress](https://wordpress.org) and have built a ton of successful projects with it.
    - 🔨 I love using [Cloudflare](https://www.cloudflare.com) for a variety of tasks such as caching, turnstiling, CDN optimizations, domain registrations etc.
-- ℹ️ **If my Github activity and social media accounts seem dormant, it's because I have been at school and I have been learning new things. I plan to start blogging about my learning journey and personal projects soon**
 
 ---
 
 ### About Me
 - 📍 Currently in the United Kingdom
 - 🎓 Masters degree in Bioinformatics and Computational Genomics
-- 📖 Self taught programmer with professional courses and certifications (Udemy, Microsoft, New Horizons, Adobe)
-- 🎓 Masters degree in Molecular Biology and Genomics
+- 📖 Self taught programmer with professional courses and certifications (Udemy, Microsoft, Scrimba, New Horizons, Adobe)
 - 🎓 Bachelors degree in Microbiology
 - I believe that whatever is worth doing at all is worth doing well
 
