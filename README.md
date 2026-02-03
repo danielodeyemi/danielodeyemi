@@ -16,8 +16,6 @@
 ### About Me
 - 📍 Currently in the United Kingdom
 - 🎓 Masters degree in Bioinformatics and Computational Genomics
-- 📖 Self taught programmer with professional courses and certifications (Udemy, Microsoft, Scrimba, New Horizons, Adobe)
-- 🎓 Bachelors degree in Microbiology
 - I believe that whatever is worth doing at all is worth doing well
 
 ---
