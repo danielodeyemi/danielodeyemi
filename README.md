@@ -19,6 +19,6 @@
 ---
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,py,r,laravel,wordpress,vscode,ps,cloudflare)](https://github.com/danielodeyemi)
+[![My Skills](https://skillicons.dev/icons?i=py,r,php,html,css,js,laravel,wordpress,vscode,ps,cloudflare)](https://github.com/danielodeyemi)
 
 ---
